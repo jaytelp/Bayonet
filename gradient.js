@@ -519,4 +519,4 @@ class Gradient {
 * Gradient.updateFrequency(freq)
 */
 
-export { Gradient }
+//export { Gradient }
